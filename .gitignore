@@ -38,3 +38,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+nextjs15_assets/assets/fonts/WorkSans-Black.ttf
+nextjs15_assets/assets/fonts/WorkSans-Bold.ttf
+nextjs15_assets/assets/fonts/WorkSans-ExtraBold.ttf
+nextjs15_assets/assets/fonts/WorkSans-ExtraLight.ttf
+nextjs15_assets/assets/fonts/WorkSans-Light.ttf
+nextjs15_assets/assets/fonts/WorkSans-Medium.ttf
+nextjs15_assets/assets/fonts/WorkSans-Regular.ttf
+nextjs15_assets/assets/fonts/WorkSans-SemiBold.ttf
+nextjs15_assets/assets/fonts/WorkSans-Thin.ttf
+nextjs15_assets/assets/favicon.ico

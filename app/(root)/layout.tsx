@@ -1,11 +1,12 @@
 import React from 'react'
+import NavBar from '@/components/NavBar'
 
 const layout = ({ children }: { children: React.ReactNode }) => {
     return (
-        <>
-            <h1 className='text-3xl'>NAVBAR</h1>
+        <main className='font-work-sans'>
+            < NavBar />
             {children}
-        </ >
+        </main >
     )
 }
 
